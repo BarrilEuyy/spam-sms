@@ -13,7 +13,7 @@ $pip2 install lolcat
 
 $pip2 install requests
 
-$git clone
+$git clone https://github.com/BarrilEuyy/spam-sms
 
 $cd spam-sms
 
