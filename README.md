@@ -1,5 +1,7 @@
 # Assalamu'alaikum
 
+Jangan berlebihan ngerjain orang nya
+
 # spam wa & sms
 spam sms untuk have fun
 # cara install
