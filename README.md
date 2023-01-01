@@ -1,4 +1,4 @@
-# spam-sms
+# spam wa & sms
 spam sms untuk have fun
 # cara install
 $pkg update && pkg upgrade
