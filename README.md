@@ -17,4 +17,4 @@ $git clone https://github.com/BarrilEuyy/spam-sms
 
 $cd spam-sms
 
-$python2 spam-sms.py
+$python spam.py
