@@ -15,8 +15,8 @@ $pip install random
 
 $pip install time
 
-$git clone https://github.com/BarrilEuyy/spam-sms
+$git clone https://github.com/BarrilEuyy/spam-wa-sms
 
-$cd spam-sms
+$cd spam-wa-sms
 
 $python spam.py
