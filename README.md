@@ -11,10 +11,6 @@ $pkg install git
 
 $pip install requests
 
-$pip install random
-
-$pip install time
-
 $git clone https://github.com/BarrilEuyy/spam-wa-sms
 
 $cd spam-wa-sms
