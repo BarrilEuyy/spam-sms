@@ -1,17 +1,19 @@
+Assalamu'alaikum
+
 # spam wa & sms
 spam sms untuk have fun
 # cara install
 $pkg update && pkg upgrade
 
-$pkg install python2
-
-$pkg install figlet
+$pkg install python
 
 $pkg install git
 
-$pip2 install lolcat
+$pip install requests
 
-$pip2 install requests
+$pip install random
+
+$pip install time
 
 $git clone https://github.com/BarrilEuyy/spam-sms
 
